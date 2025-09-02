@@ -15,7 +15,7 @@ The repository is organized into the following directories:
 | `Fine-tuning/ft_gpt-4o-mini_validation`     | Validation dataset used for fine-tuning GPT-4o-mini. |
 | `Reasoning/prompt_o4-mini`                  | Prompt used with o4-mini for reasoning runs. |
 | `Reasoning/output_o4-mini`                  | Outputs generated using the o4-mini model in reasoning runs. |
-| `Appendix`                                 | Supplementary files provided as an appendix to support verification and replication. |
+| `Appendix`                                  | Supplementary files provided as an appendix to support verification and replication. |
 
 ## Usage
 
