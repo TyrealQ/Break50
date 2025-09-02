@@ -4,8 +4,6 @@ Thanks for your interest! This repository contains the code, prompts, fine-tunin
 
 ## Repository Structure
 
-The repository is organized into the following directories:
-
 | File/Folder                | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
 | `BERTopic/BERTopic_hierarchical_clustering` | Hierarchical clustering outputs from BERTopic modeling. |
