@@ -1,0 +1,465 @@
+{
+  "frame_analysis": [
+    {
+      "generic_frame": "Athletics",
+      "topics": [
+        {
+          "topic_id": 0,
+          "topic_name": "Bryson DeChambeau and Donald Trump Golf Collaboration"
+        },
+        {
+          "topic_id": 1,
+          "topic_name": "Golf videos and discussions about older players"
+        },
+        {
+          "topic_id": 2,
+          "topic_name": "Donald Trump’s golf skills and reputation"
+        },
+        {
+          "topic_id": 5,
+          "topic_name": "Debate over Biden vs. Trump golf abilities"
+        },
+        {
+          "topic_id": 7,
+          "topic_name": "Trump's behavior driving golf carts on his golf courses"
+        },
+        {
+          "topic_id": 9,
+          "topic_name": "Praise for Donald Trump’s Golf Skills"
+        },
+        {
+          "topic_id": 14,
+          "topic_name": "Donald Trump’s golf achievements (birdies and eagles)"
+        },
+        {
+          "topic_id": 15,
+          "topic_name": "Donald Trump's golf putting technique"
+        },
+        {
+          "topic_id": 20,
+          "topic_name": "Debate over playing from red or women's tees in golf"
+        },
+        {
+          "topic_id": 30,
+          "topic_name": "Praise and Commentary on DJT’s Golf Performance"
+        },
+        {
+          "topic_id": 31,
+          "topic_name": "Donald Trump’s admiration for golfer Patrick Reed"
+        },
+        {
+          "topic_id": 35,
+          "topic_name": "Accusations of cheating and dishonesty"
+        }
+      ],
+      "total_topics": 12
+    },
+    {
+      "generic_frame": "Entertainment",
+      "topics": [
+        {
+          "topic_id": 4,
+          "topic_name": "Positive reactions to YouTube videos"
+        },
+        {
+          "topic_id": 8,
+          "topic_name": "YouTube subscriber milestones and viral video growth"
+        },
+        {
+          "topic_id": 12,
+          "topic_name": "Requests and suggestions for celebrity collaborations and appearances in a golf context"
+        },
+        {
+          "topic_id": 13,
+          "topic_name": "Neville the Caddy: Praise and Jokes"
+        },
+        {
+          "topic_id": 17,
+          "topic_name": "Jokes and commentary about Donald Trump"
+        },
+        {
+          "topic_id": 18,
+          "topic_name": "Humorous repetition of the word \"partner\" in videos"
+        },
+        {
+          "topic_id": 23,
+          "topic_name": "Excitement and anticipation for an upcoming event"
+        },
+        {
+          "topic_id": 25,
+          "topic_name": "\"Breaking the Internet\" Reactions"
+        },
+        {
+          "topic_id": 27,
+          "topic_name": "Reactions of amazement and positivity"
+        },
+        {
+          "topic_id": 32,
+          "topic_name": "Humorous and Irreverent Commentary on President Trump"
+        },
+        {
+          "topic_id": 36,
+          "topic_name": "Expressions of Excitement and Enthusiasm"
+        },
+        {
+          "topic_id": 37,
+          "topic_name": "Sexual innuendos and jokes about Trump"
+        },
+        {
+          "topic_id": 38,
+          "topic_name": "Excitement about iconic collaborations"
+        },
+        {
+          "topic_id": 39,
+          "topic_name": "Celebrity athletes and entertainers in sports events"
+        },
+        {
+          "topic_id": 40,
+          "topic_name": "Humorous commentary about Don/Donny and his activities"
+        },
+        {
+          "topic_id": 41,
+          "topic_name": "Awkward social greetings (fist bumps, high fives, handshakes)"
+        },
+        {
+          "topic_id": 42,
+          "topic_name": "Grant losing the race to a million subscribers"
+        }
+      ],
+      "total_topics": 17
+    },
+    {
+      "generic_frame": "Politics/Controversy",
+      "topics": [
+        {
+          "topic_id": 3,
+          "topic_name": "Debates on Donald Trump’s Presidency and U.S. Political Polarization"
+        },
+        {
+          "topic_id": 6,
+          "topic_name": "Hostile online discourse and distrust of mainstream media"
+        },
+        {
+          "topic_id": 10,
+          "topic_name": "How to address former presidents and officials"
+        },
+        {
+          "topic_id": 11,
+          "topic_name": "Debate over timing of Trump event video versus assassination attempt"
+        },
+        {
+          "topic_id": 16,
+          "topic_name": "Speculation about Trump's ear injury after assassination attempt"
+        },
+        {
+          "topic_id": 19,
+          "topic_name": "YouTube ads for Kamala Harris campaign"
+        },
+        {
+          "topic_id": 21,
+          "topic_name": "Concerns about Donald Trump's age and fitness for presidency"
+        },
+        {
+          "topic_id": 22,
+          "topic_name": "Pro-Trump admiration and support"
+        },
+        {
+          "topic_id": 24,
+          "topic_name": "Trump as \"GOAT\" (Greatest of All Time) and goat-themed memes"
+        },
+        {
+          "topic_id": 26,
+          "topic_name": "Online discussions and opinions about Kamala Harris"
+        },
+        {
+          "topic_id": 28,
+          "topic_name": "Trump Derangement Syndrome (TDS) discourse"
+        },
+        {
+          "topic_id": 29,
+          "topic_name": "Pro-Trump Enthusiasm and Support"
+        },
+        {
+          "topic_id": 33,
+          "topic_name": "Criticism of golfing with controversial convicted individuals"
+        },
+        {
+          "topic_id": 34,
+          "topic_name": "Wounded Warrior Project charity controversies and fundraising"
+        },
+        {
+          "topic_id": 43,
+          "topic_name": "Negative perceptions and media portrayals of Donald Trump"
+        },
+        {
+          "topic_id": 44,
+          "topic_name": "Support for a Political Candidate in Elections"
+        }
+      ],
+      "total_topics": 16
+    },
+    {
+      "generic_frame": "MANUAL",
+      "topics": [],
+      "total_topics": 0
+    }
+  ],
+  "merge_suggestions": [
+    {
+      "generic_frame": "Athletics",
+      "suggestion": [
+        {
+          "topic_ids": [
+            2,
+            9,
+            30
+          ],
+          "topic_name": "Donald Trump's golf performance and praise",
+          "rationale": "These topics all focus on praising Trump's golf skills and discussing his overall performance, so merging them would streamline commentary on his athletic ability."
+        },
+        {
+          "topic_ids": [
+            14,
+            15
+          ],
+          "topic_name": "Donald Trump's golf achievements and technique",
+          "rationale": "Both topics address specific details of Trump's game—his birdies/eagles and his putting stroke—so they can be combined to consolidate detailed performance commentary."
+        }
+      ]
+    },
+    {
+      "generic_frame": "Entertainment",
+      "suggestion": [
+        {
+          "topic_ids": [
+            4,
+            27
+          ],
+          "topic_name": "Positive reactions to video content",
+          "rationale": "Both topics capture general positive viewer responses and amazement at the video, making them semantically similar."
+        },
+        {
+          "topic_ids": [
+            23,
+            25,
+            36
+          ],
+          "topic_name": "Expressions of excitement and hype",
+          "rationale": "All three express anticipation or hype about the content, so merging them clarifies the excitement frame."
+        },
+        {
+          "topic_ids": [
+            8,
+            42
+          ],
+          "topic_name": "YouTube growth and subscriber milestones",
+          "rationale": "Both discuss views and subscriber metrics, so they can be combined under a single theme of channel growth."
+        },
+        {
+          "topic_ids": [
+            12,
+            38,
+            39
+          ],
+          "topic_name": "Celebrity collaboration suggestions",
+          "rationale": "Each topic proposes future high-profile collaborations, unifying all calls for guest appearances."
+        },
+        {
+          "topic_ids": [
+            17,
+            32,
+            37
+          ],
+          "topic_name": "Sexual innuendos and jokes about Trump",
+          "rationale": "All three use double-entendre or innuendo regarding Trump being “inside” or holes, so they form a coherent humor category."
+        }
+      ]
+    },
+    {
+      "generic_frame": "Politics/Controversy",
+      "suggestion": [
+        {
+          "topic_ids": [
+            22,
+            24,
+            29,
+            44
+          ],
+          "topic_name": "Pro-Trump support and admiration",
+          "rationale": "These topics uniformly express support, admiration, or endorsement of Trump, so merging them captures the supportive political frame."
+        },
+        {
+          "topic_ids": [
+            6,
+            28
+          ],
+          "topic_name": "Hostile political discourse and TDS",
+          "rationale": "Both cover dismissive or antagonistic online discourse and the concept of Trump Derangement Syndrome, making them suitable for consolidation."
+        },
+        {
+          "topic_ids": [
+            11,
+            16
+          ],
+          "topic_name": "Assassination attempt timeline discussion",
+          "rationale": "Each topic involves viewer confusion or debate over the timing of the assassination attempt and its aftermath, so merging them clarifies that timeline frame."
+        },
+        {
+          "topic_ids": [
+            19,
+            26
+          ],
+          "topic_name": "Discussions of Kamala Harris ads",
+          "rationale": "Both focus on viewer reactions to Kamala Harris campaign advertising, so they form a single discussion topic."
+        },
+        {
+          "topic_ids": [
+            21,
+            43
+          ],
+          "topic_name": "Negative perceptions of Trump",
+          "rationale": "Each expresses criticisms of Trump's image—age, fitness, and media portrayal—so merging them groups negative sentiments."
+        },
+        {
+          "topic_ids": [
+            33,
+            34
+          ],
+          "topic_name": "Criticisms of event controversies",
+          "rationale": "Both critique controversial aspects of the golf event (playing with convicted individuals and charity issues), so they can be combined under event controversies."
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "topic_counts": {
+      "Athletics": {
+        "topic_ids": [
+          0,
+          1,
+          2,
+          5,
+          7,
+          9,
+          14,
+          15,
+          20,
+          30,
+          31,
+          35
+        ],
+        "count": 12
+      },
+      "Entertainment": {
+        "topic_ids": [
+          4,
+          8,
+          12,
+          13,
+          17,
+          18,
+          23,
+          25,
+          27,
+          32,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ],
+        "count": 17
+      },
+      "Politics/Controversy": {
+        "topic_ids": [
+          3,
+          6,
+          10,
+          11,
+          16,
+          19,
+          21,
+          22,
+          24,
+          26,
+          28,
+          29,
+          33,
+          34,
+          43,
+          44
+        ],
+        "count": 16
+      },
+      "MANUAL": {
+        "topic_ids": [],
+        "count": 0
+      },
+      "total_topics": 45
+    },
+    "merge_suggestions": {
+      "suggested_merges": {
+        "frames": {
+          "Athletics": [
+            2,
+            9,
+            14,
+            15,
+            30
+          ],
+          "Entertainment": [
+            4,
+            8,
+            12,
+            17,
+            23,
+            25,
+            27,
+            32,
+            36,
+            37,
+            38,
+            39,
+            42
+          ],
+          "Politics/Controversy": [
+            6,
+            11,
+            16,
+            19,
+            21,
+            22,
+            24,
+            26,
+            28,
+            29,
+            33,
+            34,
+            44
+          ]
+        },
+        "count": 13
+      },
+      "manual_review": {
+        "topic_ids": [
+          0,
+          1,
+          3,
+          5,
+          7,
+          10,
+          13,
+          18,
+          20,
+          31,
+          35,
+          40,
+          41
+        ],
+        "count": 13
+      }
+    }
+  }
+}
