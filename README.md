@@ -4,7 +4,7 @@ Thanks for your interest! This repository contains the code, prompts, fine-tunin
 
 ## Repository Structure
 
-| File/Folder                | Description                                                                 |
+| Folder/File                 | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
 | `BERTopic/BERTopic_hierarchical_clustering` | Hierarchical clustering outputs from BERTopic modeling. |
 | `BERTopic/BERTopic_topic_results`           | Topic modeling results, including topic distributions and keywords. |
