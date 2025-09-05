@@ -40,4 +40,4 @@ If you use this repository or build upon this work, please cite the associated p
 
 ## Contact
 
-For questions, suggestions, or collaboration opportunities, please contact: [Tyreal Yizhou Qian](https://tyrealq.github.io/) via yqian@lsu.edu
+For questions, suggestions, or collaboration opportunities, please contact: [Tyreal Yizhou Qian](https://tyrealq.github.io/).
