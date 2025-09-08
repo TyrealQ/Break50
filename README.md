@@ -33,8 +33,8 @@ If you use this repository or build upon this work, please cite the associated p
 @article{qian2025break50,
   title={Sports, Politics, and Social Media: A Human-AI Collaborative Analysis of Consumer Reactions to Trump’s Break 50 Appearance},
   author={Qian, Tyreal Yzihou and Gong, Hua and Xu, Chenglong},
-  journal={},
-  year={2025},
+  journal={Journal of Retailing and Consumer Services},
+  year={2026},
 }
 ```
 
