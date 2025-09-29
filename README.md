@@ -1,5 +1,11 @@
 # Sports, Politics, and Social Media: A Human-AI Collaborative Analysis of Consumer Reactions to Trump’s Break 50 Appearance
 
+<p align="center">
+  <a href="https://youtu.be/eF3-8QLw7Z8?si=Zo7TF1iBMBdgwVzo">
+    <img src="https://github.com/TyrealQ/tyrealq.github.io/blob/master/images/B50.png" alt="B50">
+  </a>
+</p>
+
 Thanks for your interest! This repository contains the code, prompts, fine-tuning data, and outputs associated with the paper *"[Sports, Politics, and Social Media: A Human-AI Collaborative Analysis of Consumer Reactions to Trump’s Break 50 Appearance](https://doi.org/10.1016/j.jretconser.2025.104520)."* The study examined audience discourse surrounding Bryson DeChambeau and Donald Trump’s Break 50 video using a human-AI collaborative framework.
 
 ## Repository Structure
