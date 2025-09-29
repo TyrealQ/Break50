@@ -1,6 +1,6 @@
 # Sports, Politics, and Social Media: A Human-AI Collaborative Analysis of Consumer Reactions to Trump’s Break 50 Appearance
 
-Thanks for your interest! This repository contains the code, prompts, fine-tuning data, and outputs associated with the paper *"Sports, Politics, and Social Media: A Human-AI Collaborative Analysis of Consumer Reactions to Trump’s Break 50 Appearance."* The study examined audience discourse surrounding Bryson DeChambeau and Donald Trump’s Break 50 video using a human-AI collaborative framework.
+Thanks for your interest! This repository contains the code, prompts, fine-tuning data, and outputs associated with the paper *"[Sports, Politics, and Social Media: A Human-AI Collaborative Analysis of Consumer Reactions to Trump’s Break 50 Appearance](https://doi.org/10.1016/j.jretconser.2025.104520)."* The study examined audience discourse surrounding Bryson DeChambeau and Donald Trump’s Break 50 video using a human-AI collaborative framework.
 
 ## Repository Structure
 
